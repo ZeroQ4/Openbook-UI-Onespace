@@ -69,7 +69,7 @@ input[type=number]:focus::-webkit-inner-spin-button {
   }
 }
 .ant-modal-content {
-  background-color: #212734;
+  background-color: #14161d;
 }
 
 @-webkit-keyframes highlight {
