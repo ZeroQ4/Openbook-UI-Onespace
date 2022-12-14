@@ -5,7 +5,7 @@ export const helpUrls = {
   discord: 'https://discord.com/invite/RacHhzcS7U',
   telegram: 'https://t.me/onespaceEN',
   github: 'https://github.com/Onespace-Project',
-  projectSerum: 'https://projectserum.com/',
+  twitter: 'https://twitter.com/1space_me',
   developerResources: 'https://github.com/openbook-dex',
   solanaBeach: 'https://solanabeach.io',
 };

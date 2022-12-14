@@ -40,15 +40,15 @@ const LogoWrapper = styled.div`
 `;
 
 const EXTERNAL_LINKS = {
-  '/learn':
-    'https://docs.projectserum.com/trade-on-serum-dex/trade-on-serum-dex-1',
-  '/add-market': 'https://serum-academy.com/en/add-market/',
-  '/wallet-support': 'https://serum-academy.com/en/wallet-support',
-  '/dex-list': 'https://serum-academy.com/en/dex-list/',
-  '/developer-resources': 'https://serum-academy.com/en/developer-resources/',
+  '/more':
+    'https://1space.me/',
+  '/staking': 'https://coinstake.1space.me/',
+  '/docs': 'https://docs.1space.me/',
+  '/nft': 'https://nft.1space.me/',
+  '/market-data': 'https://openserum.io/',
   '/explorer': 'https://solscan.io',
-  '/srm-faq': 'https://projectserum.com/srm-faq',
-  '/swap': 'https://swap.projectserum.com',
+ 
+  '/swap': 'https://app.1space.me/',
 };
 
 export default function TopBar() {
@@ -175,6 +175,17 @@ export default function TopBar() {
               CONVERT
             </Menu.Item>
           )}
+          {(!searchFocussed || location.pathname === '/swap') && (
+            <Menu.Item key="/swap" style={{ margin: '0 10px' }}>
+            <a
+              href={EXTERNAL_LINKS['/swap']}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              SWAP
+            </a>
+          </Menu.Item>
+          )}
           {(!searchFocussed || location.pathname === '/list-new-market') && (
             <Menu.Item key="/list-new-market" style={{ margin: '0 10px' }}>
               ADD MARKET
@@ -182,46 +193,46 @@ export default function TopBar() {
           )}
           {!searchFocussed && (
             <Menu.SubMenu
-              title="LEARN"
+              title="...."
               onTitleClick={() =>
-                window.open(EXTERNAL_LINKS['/learn'], '_blank')
+                window.open(EXTERNAL_LINKS['/more'], '_blank')
               }
               style={{ margin: '0 0px 0 10px' }}
             >
-              <Menu.Item key="/add-market">
+              <Menu.Item key="/staking">
                 <a
-                  href={EXTERNAL_LINKS['/add-market']}
+                  href={EXTERNAL_LINKS['/staking']}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Adding a market
+                  STAKING
                 </a>
               </Menu.Item>
-              <Menu.Item key="/wallet-support">
+              <Menu.Item key="/nft">
                 <a
-                  href={EXTERNAL_LINKS['/wallet-support']}
+                  href={EXTERNAL_LINKS['/nft']}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Supported wallets
+                  NFT
                 </a>
               </Menu.Item>
-              <Menu.Item key="/dex-list">
+              <Menu.Item key="/docs">
                 <a
-                  href={EXTERNAL_LINKS['/dex-list']}
+                  href={EXTERNAL_LINKS['/docs']}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  DEX list
+                  DOCS
                 </a>
               </Menu.Item>
-              <Menu.Item key="/developer-resources">
+              <Menu.Item key="/market-data">
                 <a
-                  href={EXTERNAL_LINKS['/developer-resources']}
+                  href={EXTERNAL_LINKS['/market-data']}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Developer resources
+                  MARKET DATA
                 </a>
               </Menu.Item>
               <Menu.Item key="/explorer">
@@ -230,18 +241,10 @@ export default function TopBar() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Solana block explorer
+                  SOLANA EXPLORER
                 </a>
               </Menu.Item>
-              <Menu.Item key="/srm-faq">
-                <a
-                  href={EXTERNAL_LINKS['/srm-faq']}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  SRM FAQ
-                </a>
-              </Menu.Item>
+              
             </Menu.SubMenu>
           )}
         </Menu>
