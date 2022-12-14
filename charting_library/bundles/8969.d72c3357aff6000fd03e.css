@@ -24,7 +24,7 @@
   width: 76px;
 }
 .bar-3VlOWnM8 {
-  border: 0 solid #131722;
+  border: 0 solid #14161d;
   height: 0;
   width: 50px;
 }
@@ -163,7 +163,7 @@ html.theme-dark .bar-3VlOWnM8.isActive-3VlOWnM8 {
   border: 1px solid #d1d4dc;
   border-radius: 4px;
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   display: flex;
   height: 34px;
   justify-content: center;
@@ -232,7 +232,7 @@ html.theme-dark .container-1zlYw2UK.disabled-1zlYw2UK {
   }
   .container-1zlYw2UK:hover {
     border-color: #787b86;
-    color: #131722;
+    color: #14161d;
   }
   html.theme-dark .container-1zlYw2UK:hover {
     border-color: #787b86;
@@ -421,7 +421,7 @@ html.theme-dark
 .wrapper-2ESZuAbX {
   align-items: center;
   border-radius: 4px;
-  color: #131722;
+  color: #14161d;
   display: flex;
   height: 38px;
   justify-content: center;

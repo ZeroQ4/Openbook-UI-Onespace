@@ -65,7 +65,7 @@ html.theme-dark .tv-circle-logo--border {
 .action-DhEzLCdX {
   align-items: center;
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   display: flex;
   flex-flow: row;
   min-height: 40px;
@@ -76,11 +76,11 @@ html.theme-dark .action-DhEzLCdX {
 }
 .action-DhEzLCdX.hovered-DhEzLCdX,
 .action-DhEzLCdX:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .action-DhEzLCdX:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .action-DhEzLCdX.hovered-DhEzLCdX,
@@ -129,7 +129,7 @@ html.theme-dark .action-DhEzLCdX.selected-DhEzLCdX {
   background-color: #142e61;
 }
 .action-DhEzLCdX.selected-DhEzLCdX.active-DhEzLCdX .label-DhEzLCdX {
-  color: #131722;
+  color: #14161d;
 }
 html.theme-dark
   .action-DhEzLCdX.selected-DhEzLCdX.active-DhEzLCdX
@@ -158,7 +158,7 @@ html.theme-dark
   flex-direction: column;
 }
 .label-DhEzLCdX {
-  color: #131722;
+  color: #14161d;
   font-size: 16px;
   font-weight: 400;
 }
@@ -278,7 +278,7 @@ html.theme-dark .container-__tSsAAY {
 .input-__tSsAAY {
   background-color: initial;
   border: none;
-  color: #131722;
+  color: #14161d;
   flex: 1;
   font-size: 14px;
   height: 22px;

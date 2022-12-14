@@ -127,7 +127,7 @@ html.theme-dark
   .input-ZOZ_o9xK:disabled
   + .switcherThumbWrapper-ZOZ_o9xK
   .switcherTrack-ZOZ_o9xK {
-  background-color: #131722;
+  background-color: #14161d;
   border-color: #4c525e;
 }
 .input-ZOZ_o9xK:disabled
@@ -205,7 +205,7 @@ html.theme-dark .switcherThumb-ZOZ_o9xK {
   align-content: flex-start;
   align-items: flex-start;
   background-color: #fff;
-  color: #131722;
+  color: #14161d;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -218,11 +218,11 @@ html.theme-dark .wrapper-1Eudat6L {
 }
 .wrapper-1Eudat6L.hovered-1Eudat6L,
 .wrapper-1Eudat6L:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .wrapper-1Eudat6L:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .wrapper-1Eudat6L.hovered-1Eudat6L,

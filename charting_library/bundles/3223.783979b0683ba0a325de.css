@@ -403,7 +403,7 @@ html.theme-dark .color-2EG6_6QR.white-2EG6_6QR {
 }
 .tv-favorited-drawings-toolbar__widget {
   align-items: center;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   display: flex;
   flex-grow: 1;
   justify-content: center;

@@ -1,7 +1,7 @@
 .item-2IihgTnv {
   align-items: center;
   background-color: #fff;
-  color: #131722;
+  color: #14161d;
   cursor: default;
   display: flex;
   flex-flow: row nowrap;
@@ -16,11 +16,11 @@ html.theme-dark .item-2IihgTnv {
 }
 .item-2IihgTnv.hovered-2IihgTnv,
 .item-2IihgTnv:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .item-2IihgTnv:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .item-2IihgTnv.hovered-2IihgTnv,
@@ -57,12 +57,12 @@ html.theme-dark .item-2IihgTnv:active {
 .item-2IihgTnv.isDisabled-2IihgTnv,
 .item-2IihgTnv.isDisabled-2IihgTnv:active {
   background-color: #fff;
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .item-2IihgTnv.isDisabled-2IihgTnv:hover {
     background-color: #fff;
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .item-2IihgTnv.isDisabled-2IihgTnv,
@@ -123,11 +123,11 @@ html.theme-dark .item-2IihgTnv.isActive-2IihgTnv:active {
 }
 html.theme-dark .item-2IihgTnv.isActive-2IihgTnv .shortcut-2IihgTnv,
 html.theme-dark .item-2IihgTnv.isActive-2IihgTnv:active .shortcut-2IihgTnv {
-  color: #131722b3;
+  color: #14161db3;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   html.theme-dark .item-2IihgTnv.isActive-2IihgTnv:hover .shortcut-2IihgTnv {
-    color: #131722b3;
+    color: #14161db3;
   }
 }
 .item-2IihgTnv.isActive-2IihgTnv .toolbox-2IihgTnv,

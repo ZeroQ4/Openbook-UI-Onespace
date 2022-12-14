@@ -12,7 +12,7 @@
 }
 .button-3B9fDLtm:active {
   background-color: var(--tv-list-item-button-background-hover-color, #e0e3eb);
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-3B9fDLtm:hover {
@@ -20,7 +20,7 @@
       --tv-list-item-button-background-hover-color,
       #e0e3eb
     );
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .button-3B9fDLtm:active {

@@ -1,7 +1,7 @@
 .button-2Vpz_LXc {
   align-items: center;
   box-sizing: border-box;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   cursor: default;
   display: flex;
   height: 100%;
@@ -12,11 +12,11 @@ html.theme-dark .button-2Vpz_LXc {
 }
 .button-2Vpz_LXc.hover-2Vpz_LXc,
 .button-2Vpz_LXc:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-2Vpz_LXc:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .button-2Vpz_LXc.hover-2Vpz_LXc,

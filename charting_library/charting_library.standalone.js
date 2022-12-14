@@ -92,7 +92,7 @@ var TradingView = (function (e) {
       }
       'Dark' === this._options.theme &&
         void 0 === this._options.loading_screen &&
-        (this._options.loading_screen = { backgroundColor: '#131722' }),
+        (this._options.loading_screen = { backgroundColor: '#14161d' }),
         this._options.debug &&
           (o ||
             ((o = !0),

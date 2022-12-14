@@ -144,7 +144,7 @@ html.theme-dark .scrollRight-3obNZqvj {
 }
 html.theme-dark .fadeLeft-3obNZqvj,
 html.theme-dark .fadeRight-3obNZqvj {
-  color: #13172200;
+  color: #14161d00;
 }
 .fadeLeft-3obNZqvj.isVisible-3obNZqvj,
 .fadeRight-3obNZqvj.isVisible-3obNZqvj {
@@ -164,7 +164,7 @@ html.theme-dark .fadeLeft-3obNZqvj {
   background-image: linear-gradient(
     to left,
     var(--tv-horizontal-scroll-fade-transparent-color, currentColor),
-    var(--tv-horizontal-scroll-fade-color, #131722)
+    var(--tv-horizontal-scroll-fade-color, #14161d)
   );
 }
 .fadeRight-3obNZqvj {
@@ -180,6 +180,6 @@ html.theme-dark .fadeRight-3obNZqvj {
   background-image: linear-gradient(
     to right,
     var(--tv-horizontal-scroll-fade-transparent-color, currentColor),
-    var(--tv-horizontal-scroll-fade-color, #131722)
+    var(--tv-horizontal-scroll-fade-color, #14161d)
   );
 }

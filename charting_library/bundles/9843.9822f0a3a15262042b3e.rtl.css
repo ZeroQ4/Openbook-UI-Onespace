@@ -1,6 +1,6 @@
 .button-1SoiPS-f {
   align-items: center;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   cursor: default;
   display: flex;
   flex: 1 0 auto;
@@ -14,11 +14,11 @@ html.theme-dark .button-1SoiPS-f {
 }
 .button-1SoiPS-f.hover-1SoiPS-f,
 .button-1SoiPS-f:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-1SoiPS-f:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .button-1SoiPS-f.hover-1SoiPS-f,
