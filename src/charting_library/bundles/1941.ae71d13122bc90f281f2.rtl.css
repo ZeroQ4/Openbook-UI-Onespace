@@ -1,6 +1,6 @@
 .button-5-QHyx-s {
   align-items: center;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   cursor: default;
   display: flex;
   height: 36px;
@@ -15,11 +15,11 @@ html.theme-dark .button-5-QHyx-s {
 }
 .button-5-QHyx-s.hover-5-QHyx-s,
 .button-5-QHyx-s:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-5-QHyx-s:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .button-5-QHyx-s.hover-5-QHyx-s,

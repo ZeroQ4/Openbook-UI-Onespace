@@ -144,7 +144,7 @@ html.theme-dark .scrollTop-379NmUSU {
   transform: translateY(-100%);
 }
 html.theme-dark .fadeTop-379NmUSU {
-  background-image: linear-gradient(0deg, #13172200, #131722);
+  background-image: linear-gradient(0deg, #14161d00, #14161d);
 }
 .fadeBot-379NmUSU {
   background-image: linear-gradient(180deg, #fff0, #fff);
@@ -152,7 +152,7 @@ html.theme-dark .fadeTop-379NmUSU {
   transform: translateY(100%);
 }
 html.theme-dark .fadeBot-379NmUSU {
-  background-image: linear-gradient(180deg, #13172200, #131722);
+  background-image: linear-gradient(180deg, #14161d00, #14161d);
 }
 .dropdown-191zO2Od {
   position: relative;
@@ -177,7 +177,7 @@ html.theme-dark .fadeBot-379NmUSU {
   border-radius: 4px 0 0 4px;
   bottom: 1px;
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   cursor: default;
   display: flex;
   justify-content: center;
@@ -301,7 +301,7 @@ html.theme-dark .isOpened-191zO2Od .control-191zO2Od .arrow-191zO2Od {
 }
 .item-2qy9YC6D {
   align-items: center;
-  color: #131722;
+  color: #14161d;
   cursor: pointer;
   display: flex;
   height: 38px;
@@ -318,11 +318,11 @@ html.theme-dark .item-2qy9YC6D {
 }
 .item-2qy9YC6D.hovered-2qy9YC6D,
 .item-2qy9YC6D:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .item-2qy9YC6D:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .item-2qy9YC6D.hovered-2qy9YC6D,
@@ -392,7 +392,7 @@ html.theme-dark .title-2qy9YC6D {
 }
 html.theme-dark .container-3CL4Geq2 .background-3CL4Geq2 {
   stroke: var(--tv-color-platform-background, #2a2e39);
-  fill: var(--tv-color-pane-background, #131722);
+  fill: var(--tv-color-pane-background, #14161d);
 }
 .container-3CL4Geq2 .arrow-3CL4Geq2,
 html.theme-dark .container-3CL4Geq2 .arrow-3CL4Geq2 {
@@ -416,7 +416,7 @@ html.theme-dark .container-3CL4Geq2 .arrow-3CL4Geq2 {
     stroke: var(--tv-color-pane-background, #fff);
   }
   html.theme-dark .container-3CL4Geq2:hover .arrow-3CL4Geq2 {
-    stroke: var(--tv-color-pane-background, #131722);
+    stroke: var(--tv-color-pane-background, #14161d);
   }
 }
 .toggleButton-3zv4iS2j {
@@ -447,7 +447,7 @@ html.theme-dark .toggleButton-3zv4iS2j .background-3zv4iS2j {
   stroke: var(--tv-color-pane-background, #fff);
 }
 html.theme-dark .toggleButton-3zv4iS2j .arrow-3zv4iS2j {
-  stroke: var(--tv-color-pane-background, #131722);
+  stroke: var(--tv-color-pane-background, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .toggleButton-3zv4iS2j:hover .background-3zv4iS2j {
@@ -478,7 +478,7 @@ html.theme-dark .toggleButton-3zv4iS2j .arrow-3zv4iS2j {
   user-select: none;
 }
 html.theme-dark .drawingToolbar-2_so5thS {
-  background-color: var(--tv-color-pane-background, #131722);
+  background-color: var(--tv-color-pane-background, #14161d);
 }
 .drawingToolbar-2_so5thS.isHidden-2_so5thS,
 html.theme-dark .drawingToolbar-2_so5thS.isHidden-2_so5thS {
@@ -507,7 +507,7 @@ html.theme-dark .inner-2_so5thS {
   padding: 6px 0;
 }
 html.theme-dark .group-2_so5thS {
-  background-color: var(--tv-color-pane-background, #131722);
+  background-color: var(--tv-color-pane-background, #14161d);
 }
 .group-2_so5thS + .group-2_so5thS {
   margin-top: 1px;
@@ -529,7 +529,7 @@ html.theme-dark .group-2_so5thS {
   min-height: 2px;
 }
 html.theme-dark .fill-2_so5thS {
-  background-color: var(--tv-color-pane-background, #131722);
+  background-color: var(--tv-color-pane-background, #14161d);
 }
 .separator-2_so5thS {
   background-color: #e0e3eb;

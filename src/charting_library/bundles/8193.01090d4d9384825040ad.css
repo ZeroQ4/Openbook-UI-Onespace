@@ -5,7 +5,7 @@
   border-style: solid;
   border-width: var(--ui-lib-control-border-width, 1px);
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   display: inline-flex;
   position: relative;
 }
@@ -19,7 +19,7 @@ html.theme-dark .container-QDd7xRJ1 {
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .container-QDd7xRJ1.intent-default-QDd7xRJ1:hover {
-    --ui-lib-control-default-slot-color: #131722;
+    --ui-lib-control-default-slot-color: #14161d;
     border-color: #a3a6af;
   }
   html.theme-dark .container-QDd7xRJ1.intent-default-QDd7xRJ1:hover {

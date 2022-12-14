@@ -161,7 +161,7 @@ html.theme-dark .content-SNaRagqV .group-SNaRagqV .link-SNaRagqV:active {
   border-bottom: 1px solid #e0e3eb;
 }
 .drawerItem-zv4KaX-F {
-  color: #131722;
+  color: #14161d;
   padding: 16px;
 }
 html.theme-dark .drawerItem-zv4KaX-F {
@@ -187,7 +187,7 @@ html.theme-dark .menuWrap-zv4KaX-F {
   border-radius: 4px;
   box-shadow: 0 2px 4px #6b798866;
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   min-width: 300px;
   padding: 16px 16px 16px 12px;
 }
@@ -209,7 +209,7 @@ html.theme-dark .card-zv4KaX-F {
   top: 0;
 }
 html.theme-dark .fadeTop-zv4KaX-F {
-  background: linear-gradient(#131722, #13172200);
+  background: linear-gradient(#14161d, #14161d00);
 }
 .fadeBottom-zv4KaX-F {
   background: linear-gradient(#fff0, #fff);
@@ -218,5 +218,5 @@ html.theme-dark .fadeTop-zv4KaX-F {
   position: absolute;
 }
 html.theme-dark .fadeBottom-zv4KaX-F {
-  background: linear-gradient(#13172200, #131722);
+  background: linear-gradient(#14161d00, #14161d);
 }

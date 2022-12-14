@@ -154,7 +154,7 @@ html.theme-dark .color-brand-xRobF0EE.variant-secondary-xRobF0EE:active {
 .color-gray-xRobF0EE.variant-primary-xRobF0EE {
   --ui-lib-button-default-color-bg: #f0f3fa;
   --ui-lib-button-default-color-border: #f0f3fa;
-  --ui-lib-button-default-color-content: #131722;
+  --ui-lib-button-default-color-content: #14161d;
 }
 html.theme-dark .color-gray-xRobF0EE.variant-primary-xRobF0EE {
   --ui-lib-button-default-color-content: #fff;
@@ -165,7 +165,7 @@ html.theme-dark .color-gray-xRobF0EE.variant-primary-xRobF0EE {
   .color-gray-xRobF0EE.variant-primary-xRobF0EE:hover {
     --ui-lib-button-default-color-bg: #e0e3eb;
     --ui-lib-button-default-color-border: #e0e3eb;
-    --ui-lib-button-default-color-content: #131722;
+    --ui-lib-button-default-color-content: #14161d;
   }
   html.theme-dark .color-gray-xRobF0EE.variant-primary-xRobF0EE:hover {
     --ui-lib-button-default-color-content: #fff;
@@ -186,7 +186,7 @@ html.theme-dark .color-gray-xRobF0EE.variant-primary-xRobF0EE:active {
 .color-gray-xRobF0EE.variant-secondary-xRobF0EE {
   --ui-lib-button-default-color-bg: #0000;
   --ui-lib-button-default-color-border: #e0e3eb;
-  --ui-lib-button-default-color-content: #131722;
+  --ui-lib-button-default-color-content: #14161d;
 }
 html.theme-dark .color-gray-xRobF0EE.variant-secondary-xRobF0EE {
   --ui-lib-button-default-color-content: #d1d4dc;
@@ -197,7 +197,7 @@ html.theme-dark .color-gray-xRobF0EE.variant-secondary-xRobF0EE {
   .color-gray-xRobF0EE.variant-secondary-xRobF0EE:hover {
     --ui-lib-button-default-color-bg: #f0f3fa;
     --ui-lib-button-default-color-border: #f0f3fa;
-    --ui-lib-button-default-color-content: #131722;
+    --ui-lib-button-default-color-content: #14161d;
   }
   html.theme-dark .color-gray-xRobF0EE.variant-secondary-xRobF0EE:hover {
     --ui-lib-button-default-color-content: #fff;
@@ -208,7 +208,7 @@ html.theme-dark .color-gray-xRobF0EE.variant-secondary-xRobF0EE {
 .color-gray-xRobF0EE.variant-secondary-xRobF0EE:active {
   --ui-lib-button-default-color-bg: #e0e3eb;
   --ui-lib-button-default-color-border: #e0e3eb;
-  --ui-lib-button-default-color-content: #131722;
+  --ui-lib-button-default-color-content: #14161d;
 }
 html.theme-dark .color-gray-xRobF0EE.variant-secondary-xRobF0EE:active {
   --ui-lib-button-default-color-content: #fff;

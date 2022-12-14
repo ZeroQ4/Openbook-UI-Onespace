@@ -18,7 +18,7 @@
     background-color: #363a45;
   }
   .autocomplete-2wlTLOUu .caret-2wlTLOUu:hover .icon-2wlTLOUu {
-    color: #131722;
+    color: #14161d;
   }
   html.theme-dark .autocomplete-2wlTLOUu .caret-2wlTLOUu:hover .icon-2wlTLOUu {
     color: #b2b5be;
@@ -220,7 +220,7 @@ html.theme-dark .container-1FV_LSwA::-webkit-scrollbar-thumb {
 }
 .container-1FV_LSwA .indicators-1FV_LSwA {
   word-wrap: break-word;
-  color: #131722;
+  color: #14161d;
   cursor: default;
   display: flex;
   flex: 1 1 auto;

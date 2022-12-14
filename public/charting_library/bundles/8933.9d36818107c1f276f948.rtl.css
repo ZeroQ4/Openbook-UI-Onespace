@@ -1,6 +1,6 @@
 .content-22S1W3v8 {
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   display: inline-grid;
   grid-template-columns: auto 1fr;
   max-width: 550px;
@@ -110,14 +110,14 @@ html.theme-dark .wrap-3GItoI3T {
     background-color: #434651;
   }
   .wrap-3GItoI3T:hover .icon-3GItoI3T {
-    color: #131722;
+    color: #14161d;
   }
   html.theme-dark .wrap-3GItoI3T:hover .icon-3GItoI3T {
     color: #b2b5be;
   }
 }
 .text-3GItoI3T {
-  color: #131722;
+  color: #14161d;
   cursor: default;
   line-height: 21px;
   overflow: hidden;
@@ -210,7 +210,7 @@ margin-right: 0;
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .control-7ApHzdB4:hover {
     background-color: #f0f3fa;
-    color: #131722;
+    color: #14161d;
   }
   html.theme-dark .control-7ApHzdB4:hover {
     background-color: #363a45;
@@ -309,7 +309,7 @@ html.theme-dark .thicknessItem-kAIcH6Vi.checked-kAIcH6Vi {
   width: 100%;
 }
 .bar-kAIcH6Vi {
-  border: 0 solid #131722;
+  border: 0 solid #14161d;
   height: 0;
   width: 100%;
 }

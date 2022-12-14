@@ -46,7 +46,7 @@
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .control-bar__btn:hover {
     background-color: #fff;
-    color: #131722;
+    color: #14161d;
   }
 }
 .control-bar__btn:active {
@@ -178,7 +178,7 @@
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .pane-button-xPfK7aM7:hover:after {
-    background-color: #1317220f;
+    background-color: #14161d0f;
     border-radius: 3px;
     bottom: 0;
     content: '';
@@ -304,7 +304,7 @@ html.theme-dark
   pointer-events: auto;
 }
 .item-1WIwNaDF.last-1WIwNaDF .text-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
 }
 .item-1WIwNaDF .noWrapWrapper-1WIwNaDF {
   display: flex;
@@ -354,7 +354,7 @@ html.theme-dark
 }
 .noWrap-1WIwNaDF .valuesAdditionalWrapper-1WIwNaDF {
   align-self: auto;
-  color: #131722;
+  color: #14161d;
   display: block;
   min-width: 0;
   overflow: hidden;
@@ -406,7 +406,7 @@ html.theme-dark
   pointer-events: none;
 }
 .title-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
   min-width: 23px;
   overflow: hidden;
   text-align: left;
@@ -681,7 +681,7 @@ html.theme-dark
 }
 .valueItem-1WIwNaDF .valueTitle-1WIwNaDF,
 .valueItem-1WIwNaDF .valueValue-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
 }
 .loading-1WIwNaDF .valueItem-1WIwNaDF,
 .loading-1WIwNaDF .valuesAdditionalWrapper-1WIwNaDF {
@@ -786,7 +786,7 @@ html.theme-dark
   z-index: 0;
 }
 .buttonIcon-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
   display: flex;
 }
 .button-1WIwNaDF:last-child {
@@ -810,7 +810,7 @@ html.theme-dark
   margin-top: -1px;
 }
 .disabled-1WIwNaDF .buttonIcon-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .legend-1WIwNaDF:hover
@@ -988,7 +988,7 @@ html.theme-dark
 .toggler-1WIwNaDF .counter-1WIwNaDF,
 .toggler-1WIwNaDF .iconArrow-1WIwNaDF,
 .toggler-1WIwNaDF .objectTree-1WIwNaDF {
-  color: #131722;
+  color: #14161d;
   position: relative;
   z-index: 1;
 }
@@ -1151,7 +1151,7 @@ html.theme-dark
 .chart-widget__top--themed-dark .selected-1WIwNaDF .titleWrapper-1WIwNaDF,
 .chart-widget__top--themed-dark .withAction-1WIwNaDF .buttons-1WIwNaDF,
 .chart-widget__top--themed-dark .withAction-1WIwNaDF .titleWrapper-1WIwNaDF {
-  background-color: #131722;
+  background-color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .chart-widget__top--themed-dark
@@ -1224,7 +1224,7 @@ html.theme-dark
 .nowWrapper-1Srpa2Xw .now-1Srpa2Xw {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #131722;
+  background-color: #14161d;
   bottom: -1px;
   outline: 1px solid #fff;
   position: absolute;
@@ -1348,7 +1348,7 @@ html.theme-dark .sessionDay-1Srpa2Xw .timeMark-1Srpa2Xw {
   opacity: 1;
 }
 .sessionDay-1Srpa2Xw.active-1Srpa2Xw .weekDay-1Srpa2Xw {
-  color: #131722;
+  color: #14161d;
 }
 html.theme-dark .sessionDay-1Srpa2Xw.active-1Srpa2Xw .weekDay-1Srpa2Xw {
   color: #b2b5be;
@@ -1655,7 +1655,7 @@ html.theme-dark .dataProblemLow-1NfuygY0:after {
   margin-left: 4px;
 }
 .button-2RChU0rC .buttonIcon-2RChU0rC {
-  color: #131722;
+  color: #14161d;
 }
 .button-2RChU0rC.minimize-2RChU0rC .buttonIcon-2RChU0rC {
   color: #fff;
@@ -1748,7 +1748,7 @@ html.theme-dark .dataProblemLow-1NfuygY0:after {
   flex-wrap: nowrap;
 }
 .chart-widget__top--themed-dark .paneControls-2RChU0rC {
-  color: #131722;
+  color: #14161d;
 }
 .chart-widget__top--themed-dark .minimize-2RChU0rC {
   background-color: #1848cc !important;

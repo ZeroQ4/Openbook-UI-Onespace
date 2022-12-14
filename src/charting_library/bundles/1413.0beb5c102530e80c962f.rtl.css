@@ -74,7 +74,7 @@ html.theme-dark .value-2y-wa9jT.selected-2y-wa9jT {
 .form-9dAINdeN {
   align-items: center;
   box-sizing: border-box;
-  color: #131722;
+  color: #14161d;
   display: flex;
   flex-direction: row;
   font-size: 14px;
@@ -89,13 +89,13 @@ html.theme-dark .form-9dAINdeN {
 .form-9dAINdeN.interacting-9dAINdeN .add-9dAINdeN,
 .form-9dAINdeN.interacting-9dAINdeN .input-9dAINdeN,
 .form-9dAINdeN.interacting-9dAINdeN .menu-9dAINdeN {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .form-9dAINdeN:hover .add-9dAINdeN,
   .form-9dAINdeN:hover .input-9dAINdeN,
   .form-9dAINdeN:hover .menu-9dAINdeN {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .form-9dAINdeN.interacting-9dAINdeN .add-9dAINdeN,
@@ -116,7 +116,7 @@ html.theme-dark .form-9dAINdeN.interacting-9dAINdeN .menu-9dAINdeN {
 .form-9dAINdeN.interacting-9dAINdeN .input-9dAINdeN:active,
 .form-9dAINdeN.interacting-9dAINdeN .menu-9dAINdeN.hovered-9dAINdeN,
 .form-9dAINdeN.interacting-9dAINdeN .menu-9dAINdeN:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .form-9dAINdeN.interacting-9dAINdeN .add-9dAINdeN:hover,
@@ -131,7 +131,7 @@ html.theme-dark .form-9dAINdeN.interacting-9dAINdeN .menu-9dAINdeN {
   .form-9dAINdeN:hover .menu-9dAINdeN.hovered-9dAINdeN,
   .form-9dAINdeN:hover .menu-9dAINdeN:active,
   .form-9dAINdeN:hover .menu-9dAINdeN:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark
@@ -321,7 +321,7 @@ html.theme-dark .menu-9dAINdeN {
   white-space: nowrap;
 }
 .addCustomInterval-2R6OKuTS {
-  color: #131722;
+  color: #14161d;
   font-size: 16px;
   line-height: 24px;
   margin-top: 6px;
@@ -332,11 +332,11 @@ html.theme-dark .addCustomInterval-2R6OKuTS {
 }
 .addCustomInterval-2R6OKuTS.hovered-2R6OKuTS,
 .addCustomInterval-2R6OKuTS:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .addCustomInterval-2R6OKuTS:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .addCustomInterval-2R6OKuTS.hovered-2R6OKuTS,
@@ -587,7 +587,7 @@ html.theme-dark .text-1iP43u_z {
 }
 .item-2gtivim- {
   align-items: center;
-  color: #131722;
+  color: #14161d;
   cursor: default;
   display: flex;
   flex: 0 0 auto;
@@ -742,18 +742,18 @@ html.theme-dark .titleItemTabletSmall-2noQNU_F:active {
   font-size: 16px;
 }
 .wrap-2noQNU_F {
-  color: #131722;
+  color: #14161d;
 }
 html.theme-dark .wrap-2noQNU_F {
   color: #b2b5be;
 }
 .wrap-2noQNU_F.hovered-2noQNU_F,
 .wrap-2noQNU_F:active {
-  color: #131722;
+  color: #14161d;
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .wrap-2noQNU_F:hover {
-    color: #131722;
+    color: #14161d;
   }
 }
 html.theme-dark .wrap-2noQNU_F.hovered-2noQNU_F,
@@ -796,7 +796,7 @@ html.theme-dark .wrap-2noQNU_F:active {
 }
 .title-3FnlLKfX {
   align-items: center;
-  color: #131722;
+  color: #14161d;
   display: flex;
   flex-direction: row;
   white-space: nowrap;
@@ -808,7 +808,7 @@ html.theme-dark .title-3FnlLKfX {
   display: flex;
 }
 .title-3FnlLKfX .icon-3FnlLKfX svg {
-  fill: #131722;
+  fill: #14161d;
   display: block;
 }
 html.theme-dark .title-3FnlLKfX .icon-3FnlLKfX svg {

@@ -234,7 +234,7 @@ th {
 .tv-text ol,
 .tv-text p,
 .tv-text ul {
-  color: #131722;
+  color: #14161d;
   font-size: 14px;
   line-height: 1.6;
   margin-bottom: 12px;
@@ -641,11 +641,11 @@ body {
   background-color: #fff;
 }
 html.theme-dark body {
-  background-color: #131722;
+  background-color: #14161d;
 }
 body.tv-body--bg_superdark,
 html.theme-dark body.tv-body--bg_superdark {
-  background: #131722;
+  background: #14161d;
 }
 body.tv-body--bg_contrast {
   background-color: #fff;
@@ -719,7 +719,7 @@ html.theme-dark .chart-page {
   z-index: 0;
 }
 html.theme-dark .chart-page .chart-container-border {
-  background-color: #131722;
+  background-color: #14161d;
 }
 .chart-page .chart-container.multiple.active:after {
   border: 2px solid #2962ff;
@@ -786,7 +786,7 @@ html.theme-dark .chart-page .chart-container.multiple.active:after {
   z-index: 150;
 }
 html.theme-dark .loading-indicator {
-  background: #131722;
+  background: #14161d;
 }
 .ui-slider-horizontal {
   background-color: #f4f7f9;
@@ -2560,7 +2560,7 @@ html.theme-dark .common-tooltip__hotkey-block--divider-36YLR71G {
   }
 }
 .common-tooltip-36YLR71G.theme-white {
-  color: #131722;
+  color: #14161d;
 }
 html.theme-dark .common-tooltip-36YLR71G.theme-white {
   color: #d1d4dc;
@@ -2696,7 +2696,7 @@ html.theme-dark
 }
 .common-tooltip-36YLR71G.theme-round-shadow {
   box-shadow: 0 1px 3px 0 #2a2c394a;
-  color: #131722;
+  color: #14161d;
 }
 html.theme-dark .common-tooltip-36YLR71G.theme-round-shadow {
   color: #d1d4dc;
@@ -2765,7 +2765,7 @@ html.theme-dark .container-e6Js9pSl {
   width: 100%;
 }
 html.theme-dark .container-e6Js9pSl .inner-e6Js9pSl {
-  background-color: #131722;
+  background-color: #14161d;
 }
 .container-e6Js9pSl.border-left-e6Js9pSl {
   padding-right: 4px;
@@ -2859,7 +2859,7 @@ td.chart-markup-table {
   width: 100%;
 }
 html.theme-dark .chart-data-window {
-  background-color: #131722;
+  background-color: #14161d;
   color: #d1d4dc;
 }
 .chart-data-window .box {
@@ -3007,7 +3007,7 @@ html.theme-dark
   z-index: 14;
 }
 html.theme-dark .bar-mark-tooltip {
-  background: #131722e6;
+  background: #14161de6;
 }
 .bar-mark-tooltip .text {
   display: inline-block;
@@ -3031,7 +3031,7 @@ html.theme-dark .bar-mark-tooltip {
   z-index: 7;
 }
 html.theme-dark .published-charts-tooltip {
-  background: #131722e6;
+  background: #14161de6;
 }
 .published-charts-tooltip .avatar {
   height: 32px;
@@ -3121,13 +3121,13 @@ html.theme-dark .published-charts-tooltip .text {
   border-color: #fff0 #fff #fff0 #fff0;
 }
 html.theme-dark .published-charts-tooltip:not(.right):after {
-  border-right-color: #131722;
+  border-right-color: #14161d;
 }
 .published-charts-tooltip.right:after {
   border-color: #fff0 #fff0 #fff0 #fff;
 }
 html.theme-dark .published-charts-tooltip.right:after {
-  border-left-color: #131722;
+  border-left-color: #14161d;
 }
 .published-charts-tooltip.right:before {
   right: -2.2em;
@@ -3174,7 +3174,7 @@ html.theme-dark .published-charts-tooltip.right:after {
   position: absolute;
 }
 html.theme-dark .chart-controls-bar {
-  background-color: var(--tv-color-pane-background, #131722);
+  background-color: var(--tv-color-pane-background, #14161d);
   border-color: var(--tv-color-platform-background, #2a2e39);
 }
 .no-border-bottom-left-radius .chart-controls-bar {
@@ -3352,7 +3352,7 @@ html.theme-dark
   .label-1DJMiIgd
   .gear-1DJMiIgd
   svg {
-  fill: #131722;
+  fill: #14161d;
 }
 .chart-container.inactive
   .price-axis-stub-1DJMiIgd

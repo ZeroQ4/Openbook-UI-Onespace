@@ -7,7 +7,7 @@
 }
 .item-3SbREAgE {
   align-items: center;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   display: flex;
   font-size: 14px;
   height: 100%;
@@ -20,11 +20,11 @@ html.theme-dark .item-3SbREAgE {
 }
 .item-3SbREAgE.hover-3SbREAgE,
 .item-3SbREAgE:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .item-3SbREAgE:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .item-3SbREAgE.hover-3SbREAgE,
@@ -132,7 +132,7 @@ html.theme-dark .slider-3GYrNsPp .inner-3GYrNsPp {
 }
 .button-yLOygoSG {
   align-items: center;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   display: flex;
   height: 100%;
   margin-right: 9px;
@@ -145,11 +145,11 @@ html.theme-dark .button-yLOygoSG {
 }
 .button-yLOygoSG.hover-yLOygoSG,
 .button-yLOygoSG:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-yLOygoSG:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .button-yLOygoSG.hover-yLOygoSG,
@@ -209,7 +209,7 @@ html.theme-dark .button-yLOygoSG:active:before {
   align-items: center;
   background-color: initial;
   border: none;
-  color: var(--tv-color-toolbar-button-text, #131722);
+  color: var(--tv-color-toolbar-button-text, #14161d);
   cursor: default;
   display: flex;
   height: 100%;
@@ -224,11 +224,11 @@ html.theme-dark .button-2pZNJ24z {
 }
 .button-2pZNJ24z.hover-2pZNJ24z,
 .button-2pZNJ24z:active {
-  color: var(--tv-color-toolbar-button-text-hover, #131722);
+  color: var(--tv-color-toolbar-button-text-hover, #14161d);
 }
 @media (any-hover: hover), (min--moz-device-pixel-ratio: 0) {
   .button-2pZNJ24z:hover {
-    color: var(--tv-color-toolbar-button-text-hover, #131722);
+    color: var(--tv-color-toolbar-button-text-hover, #14161d);
   }
 }
 html.theme-dark .button-2pZNJ24z.hover-2pZNJ24z,
