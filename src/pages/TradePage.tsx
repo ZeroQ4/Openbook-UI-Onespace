@@ -84,7 +84,7 @@ function TradePageInner() {
   });
 
   useEffect(() => {
-    document.title = marketName ? `${marketName} — Serum` : 'Serum';
+    document.title = marketName ? `${marketName} — DEX | Onespace` : 'DEX | Onespace';
   }, [marketName]);
 
   const changeOrderRef = useRef<
@@ -182,13 +182,13 @@ function TradePageInner() {
                 title="Market address"
                 trigger="click"
               >
-                <InfoCircleOutlined style={{ color: '#2abdd2' }} />
+                <InfoCircleOutlined style={{ color: '#5ab7f7' }} />
               </Popover>
             </Col>
           ) : null}
           <Col>
             <PlusCircleOutlined
-              style={{ color: '#2abdd2' }}
+              style={{ color: '#5ab7f7' }}
               onClick={() => setAddMarketVisible(true)}
             />
           </Col>

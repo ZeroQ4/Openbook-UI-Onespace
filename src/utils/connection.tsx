@@ -7,7 +7,7 @@ import { ConnectionContextValues, EndpointInfo } from './types';
 
 export const ENDPOINTS: EndpointInfo[] = [
   {
-    name: 'mrgn mainnet-beta',
+    name: 'onespace-mainnet-beta',
     endpoint: 'https://solana-api.syndica.io/access-token/d3KZa1fg1Eyg9QAu9nVxRj6ohfqr2WHcfCa6ghPsenrCJoJrgwSxocLYOfyNQkyt/rpc',
     custom: false,
   },
@@ -16,7 +16,7 @@ export const ENDPOINTS: EndpointInfo[] = [
     endpoint: 'https://api.mainnet-beta.solana.com',
     custom: false,
   },
-  { name: 'localnet', endpoint: 'http://127.0.0.1:8899', custom: false },
+  //{ name: 'localnet', endpoint: 'http://127.0.0.1:8899', custom: false },
 ];
 
 const accountListenerCount = new Map();

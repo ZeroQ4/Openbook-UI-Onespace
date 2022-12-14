@@ -20,7 +20,7 @@ import AppSearch from './AppSearch';
 import { getTradePageUrl } from '../utils/markets';
 
 const Wrapper = styled.div`
-  background-color: #0d1017;
+  background-color: #111318;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -30,11 +30,11 @@ const Wrapper = styled.div`
 const LogoWrapper = styled.div`
   display: flex;
   align-items: center;
-  color: #2abdd2;
+  color: #5ab7f7;
   font-weight: bold;
   cursor: pointer;
   img {
-    height: 30px;
+    height: 50px;
     margin-right: 8px;
   }
 `;
@@ -143,7 +143,7 @@ export default function TopBar() {
       <Wrapper>
         <LogoWrapper onClick={() => history.push(tradePageUrl)}>
           <img src={logo} alt="" />
-          {'SERUM'}
+          {''}
         </LogoWrapper>
         <Menu
           mode="horizontal"
@@ -267,7 +267,7 @@ export default function TopBar() {
           >
             <Col>
               <PlusCircleOutlined
-                style={{ color: '#2abdd2' }}
+                style={{ color: '#5ab7f7' }}
                 onClick={() => setAddEndpointVisible(true)}
               />
             </Col>
@@ -278,7 +278,7 @@ export default function TopBar() {
                 title="URL"
                 trigger="hover"
               >
-                <InfoCircleOutlined style={{ color: '#2abdd2' }} />
+                <InfoCircleOutlined style={{ color: '#5ab7f7' }} />
               </Popover>
             </Col>
             <Col>

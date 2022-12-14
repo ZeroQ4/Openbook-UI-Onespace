@@ -30,7 +30,7 @@ export default function Index() {
           <BalancesTab />
         </TabPane>
         {market && market.supportsSrmFeeDiscounts ? (
-          <TabPane tab="Fee discounts" key="fees">
+          <TabPane tab="" key="fees">
             <FeesTable />
           </TabPane>
         ) : null}
