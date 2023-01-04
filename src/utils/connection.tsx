@@ -8,7 +8,7 @@ import { ConnectionContextValues, EndpointInfo } from './types';
 export const ENDPOINTS: EndpointInfo[] = [
   {
     name: 'onespace-mainnet-beta',
-    endpoint: 'https://solana-api.syndica.io/access-token/d3KZa1fg1Eyg9QAu9nVxRj6ohfqr2WHcfCa6ghPsenrCJoJrgwSxocLYOfyNQkyt/rpc',
+    endpoint: 'https://rpc.ankr.com/solana',
     custom: false,
   },
   {
