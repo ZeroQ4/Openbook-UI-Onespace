@@ -42,7 +42,13 @@
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX",
     "deprecated": false,
     "address": "B2na8Awyd7cpC59iEU43FagJAPLigr3AP3s38KM982bu"
-  }, 
+  },
+  {
+    "name": "b/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX",
+    "deprecated": false,
+    "address": "37RmmpLFoeMz1a6mcXF8k8paaxgvDY9xwskSsPi2Qreg"
+  },  
   {
     "name": "1SP/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX",
