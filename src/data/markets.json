@@ -48,6 +48,12 @@
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX",
     "deprecated": false,
     "address": "37RmmpLFoeMz1a6mcXF8k8paaxgvDY9xwskSsPi2Qreg"
+  },
+  {
+    "name": "egg/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX",
+    "deprecated": false,
+    "address": "E9kZJweopTgQXt8LGgSaxXdqjxhTBGDMWR5DaQDUnWm4"
   },  
   {
     "name": "1SP/USDC",
