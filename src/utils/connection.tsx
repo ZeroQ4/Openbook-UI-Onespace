@@ -8,7 +8,7 @@ import { ConnectionContextValues, EndpointInfo } from './types';
 export const ENDPOINTS: EndpointInfo[] = [
   {
     name: 'onespace-mainnet-beta',
-    endpoint: 'https://rpc.ankr.com/solana',
+    endpoint: 'https://bold-fittest-night.solana-mainnet.discover.quiknode.pro/95f077b56b302571a599ee6a539254bcfe66bffd/',
     custom: false,
   },
   {
